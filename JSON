@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Trần Minh Hoàng",
+    "phone": "+84912345678",
+    "email": "hoang.tm.dev@gmail.com",
+    "position": "Backend Developer",
+    "experience_years": 3,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Docker",
+      "RESTful API"
+    ]
+  },
+  {
+    "name": "Lê Thị Thu Thảo",
+    "phone": "+84987654321",
+    "email": "thaole.data2005@yahoo.com",
+    "position": "Thực tập sinh Data Analyst",
+    "experience_years": 0,
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Power BI",
+      "Trực quan hóa dữ liệu"
+    ]
+  }
+]
